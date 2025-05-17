@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Himanshu Mehta
 
-<!--
-**himanshu00003/himanshu00003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building modern web applications and constantly learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on: **Attendance System** – a MERN stack project.
+- 🌱 I’m currently learning: **Docker** – containerizing my Node.js apps and learning deployment best practices.
+- 💬 Ask me about: **React, JavaScript, Tailwind CSS, or Frontend Architecture** – I enjoy solving UI/UX problems and optimizing performance.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: JavaScript, Java, HTML, CSS
+- **Frontend**: React.js, Tailwind CSS, Redux
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git, GitHub, VS Code, Postman, Docker (learning)
+- **Other**: Firebase, JWT, REST APIs
+
+---
+
+## 📫 Connect with Me
+
+- Email: [himanshumehta.283@gmail.com](mailto:himanshumehta.283@gmail.com)
+- LinkedIn: [linkedin.com/in/himanshu-mehta28](https://linkedin.com/in/himanshu-mehta28)
+
+---
+
+Thanks for stopping by! 🚀
