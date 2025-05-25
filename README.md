@@ -1,38 +1,38 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=himanshumehta-283&label=Profile%20views&color=0e75b6&style=plastic" alt="himanshumehta-283" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshumehta-283&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
 
+<h1 align="center">👋 Hi, I'm Himanshu Mehta</h1>
 
-# 👋 Hi, I'm Himanshu Mehta
-
-Welcome to my GitHub profile! I'm a passionate developer who loves building modern web applications and constantly learning new technologies.
+<p align="center">
+  A passionate frontend developer who loves building modern web apps and constantly learning new technologies.
+</p>
 
 ---
 
-
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Attendance System** – a MERN stack project.
-- 🌱 I’m currently learning: **Docker** – containerizing my Node.js apps and learning deployment best practices.
-- 💬 Ask me about: **React, JavaScript, Tailwind CSS, or Frontend Architecture** – I enjoy solving UI/UX problems and optimizing performance.
+- 🔭 Currently working on: **Attendance System** – a MERN stack project  
+- 🌱 Currently learning: **Docker** – containerizing my Node.js apps & exploring deployment  
+- 💬 Ask me about: **React, JavaScript, Tailwind CSS, or Frontend Architecture**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Java, HTML, CSS
-- **Frontend**: React.js, Tailwind CSS, Redux
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, GitHub, VS Code, Postman, Docker (learning)
-- **Other**: Firebase, JWT, REST APIs
+- **Languages:** JavaScript, Java, HTML, CSS  
+- **Frontend:** React.js, Tailwind CSS, Redux  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman, Docker (learning)  
+- **Other:** Firebase, JWT, REST APIs
 
 ---
 
 ## 📫 Connect with Me
 
-- Email: [himanshumehta.283@gmail.com](mailto:himanshumehta.283@gmail.com)
-- LinkedIn: [linkedin.com/in/himanshu-mehta28](https://linkedin.com/in/himanshu-mehta28)
+- 📧 Email: [himanshumehta.283@gmail.com](mailto:himanshumehta.283@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mehtahimanshu0618](https://www.linkedin.com/in/mehtahimanshu0618/)
 
 ---
 
-Thanks for stopping by! 🚀
+<p align="center">Thanks for stopping by! 🚀</p>
