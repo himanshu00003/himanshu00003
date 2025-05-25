@@ -1,8 +1,14 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himanshumehta-283&label=Profile%20views&color=0e75b6&style=plastic" alt="himanshumehta-283" />
+</p>
+
+
 # 👋 Hi, I'm Himanshu Mehta
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building modern web applications and constantly learning new technologies.
 
 ---
+
 
 ## 🚀 About Me
 
